@@ -16,6 +16,5 @@ if entrada == 'E'and senha_digitada == senha_permitida:
 else:
     print('Sair')
 
-print(True and True an True)
-
-
+print(True and True and True)
+print(True and 0 and True)
